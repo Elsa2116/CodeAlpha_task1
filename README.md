@@ -1,4 +1,4 @@
-  Play Music Web App
+##  Play Music Web App
 
 A sleek and responsive music player web application that allows users to play, pause, and navigate through their favorite tracks. Built with HTML, CSS, and JavaScript, this app delivers a smooth and interactive audio experience right in the browser.
 
